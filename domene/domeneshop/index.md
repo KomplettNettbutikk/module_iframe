@@ -8,7 +8,7 @@ Før du logger inn på domeneshop så finner du ditt midlertidige domenenavn du 
 Dette er adressen du bruker for å se din demobutikk i dag: f.eks: https://_sc1234.srv7.snartonline.no_/
 Uthevet del, altså _sc1234.srv7.snartonline.no_ er ditt midlertidige domenenavn.
 
-1. Logg deg inn på [https://domene.shop/login] og fyll inn ditt brukernavn og passord.
+1. Logg deg inn på https://domene.shop/login og fyll inn ditt brukernavn og passord.
 2. Trykk på *Mine domener* og deretter på ønsket domene.
 3. Trykk på fanen *DNS-pekere*, og deretter på *Vis avanserte innstillinger*
 4. Du skal opprette 3 pekere og du må trykke på lagre (checkbox til høyre) for hver peker / linje i skjemaet
