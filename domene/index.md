@@ -6,7 +6,7 @@ Uthevet del, altså **sc1234.srv7.snartonline.no** er ditt midlertidige domenena
 
 
 ## Trykk på din domeneleverandør for spesifikke guider:
-* [Domeneshop](/domeneshop)
+* [Domeneshop](/domene/domeneshop)
 
 _Flere kommer_
 
