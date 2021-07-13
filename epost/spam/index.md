@@ -33,5 +33,6 @@ Det er litt oppsett både på vår server og i dns-innstillinger for ditt domene
 Fordeler ved oppsett av DKIM og DMARC
 Man benytter all tilgjengelig teknologi for å øke epost-sikkerhet, noe som også kan gjøre det litt mindre sannsynlig at eposter blir markert som spam hos mottaker. Det er imidlertid ingen garantier for mail-levering da vi ikke har kontroll på mottakers epostserver, men med SPF (som du allerede har), DKIM og DMARC så gjør vi alle grep som er tilgjengelig teknisk for at det skal bli så bra som mulig.
  
-Ta kontakt med oss for tilbud om oppsett av DKIM og DMARC.
+Send en epost til [vår utvikler](mailto:mads@komplettnettbutikk.no?subject=Oppsett+av+DKIM+og+DMARC) for tilbud om oppsett av DKIM og DMARC.
+Vi må ha innlogging til ditt domene, samt vite om du ønsker å få tilsendt rapporter ved feil på epost, og evt. til hvilken epost dette er ønskelig.
 
