@@ -24,7 +24,7 @@ Hvis du vil ha en masse mail-rapporter (fordi du ønsker å jobbe med å forbedr
 "v=DMARC1; p=none; rua=mailto:eksempelepost@domene.no; ruf=mailto:eksempelepost@domene.no; fo=1"
 
 
-## Forstå rapportene og jobbe videre
+## Forstå rapportene og jobb videre
 Det er ikke gratis support på å få forklaring på slike rapporter fra KomplettNettbutikk.no, men dersom du ønsker at vi skal jobbe med din epost så kan vi gjøre dette på oppdrag.
 
 Hvis du vil se på dette selv så kan du finne mye nyttig informasjon f.eks. her:
