@@ -15,7 +15,7 @@ jobs:
           bundler-cache: true
           ruby-version: '2.6'    
       - name: install
-        run: gem install bundler && bundle
+        run: bundle init && gem install bundler && bundle
       - name: build
         run: bundle exec rake build
       - name: test
