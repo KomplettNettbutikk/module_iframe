@@ -1,9 +1,6 @@
 # build, test, and ftp deploy a jekyll site
 name: ci:deploy
-on:
-  push:
-    branches:
-      - main
+on: push
 jobs:
   deploy:
     runs-on: ubuntu-latest
